@@ -1,2 +1,1 @@
-# alx_tools
-this is my first repository as an AlX learner
+this is my first read me
